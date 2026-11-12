@@ -1,0 +1,24 @@
+# Build artifacts
+target/
+dependency-reduced-pom.xml
+
+# IDE files
+.classpath
+.project
+.settings/
+*.iml
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Env / secrets
+.env
+
+# Internal
+.omo/
